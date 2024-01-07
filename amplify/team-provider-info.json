@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-neomarket-dev-01133-authRole",
+      "UnauthRoleArn": "arn:aws:iam::039449966734:role/amplify-neomarket-dev-01133-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::039449966734:role/amplify-neomarket-dev-01133-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-neomarket-dev-01133-deployment",
+      "UnauthRoleName": "amplify-neomarket-dev-01133-unauthRole",
+      "StackName": "amplify-neomarket-dev-01133",
+      "StackId": "arn:aws:cloudformation:ap-south-1:039449966734:stack/amplify-neomarket-dev-01133/9546ba80-085b-11ed-a24c-02c6031d42fc",
+      "AmplifyAppId": "d3jsxuwcs81s7z"
+    }
+  }
+}
